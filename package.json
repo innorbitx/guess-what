@@ -4,10 +4,18 @@
   "description": "Guess what I'm thinking",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innorbitx/guess-what.git"
   },
   "author": "José Luis Garza",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/innorbitx/guess-what/issues"
+  },
+  "homepage": "https://github.com/innorbitx/guess-what#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
