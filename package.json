@@ -1,0 +1,14 @@
+{
+  "name": "guess-what",
+  "version": "1.0.0",
+  "description": "Guess what I'm thinking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "José Luis Garza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
